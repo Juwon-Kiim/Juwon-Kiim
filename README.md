@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JD&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;JD&fontSize=80)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=highman1569)](https://solved.ac/highman1569)
 
@@ -14,4 +14,4 @@ tool<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarlawnwndnjsdnjs)](https://github.com/rlarlawnwndnjsdnjs/JD/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Good&nbsp;Bye&fontSize=80)
